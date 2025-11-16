@@ -2,10 +2,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Always+learning+new+things;Technology+Enthusiast"></a>
 </p>
-<!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" />
 
-<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif)" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a computer engineering student. I'm expanding my knowledge in both front-end and back-end development, working on personal projects, and I hope to gain work experience and collaborate with teams. I love learning and building something new, productive, innovative, and creative.
 - 🌱 I’m currently learning ...
