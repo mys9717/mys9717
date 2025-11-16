@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Always+learning+new+things;Technology+Enthusiast"></a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
